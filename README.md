@@ -1,2 +1,2 @@
 # Animated Landing Page
- animated land
+It's a simple-animated landing page with pure CSS for tutorial
